@@ -5,9 +5,9 @@
 
 
 class GrandParent {
-//	public GrandParent() {
-//		System.out.println("GrandParent class constructor executed");
-//	}
+	public GrandParent() {
+		System.out.println("GrandParent class constructor executed");
+	}
 }
 
 class Parent extends GrandParent {
